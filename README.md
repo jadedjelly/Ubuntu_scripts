@@ -12,5 +12,7 @@
    - Users (add remove (moving home dir somewhere))
    - hmmm.....
 
- 
+
+NOTE:
+Translate powershell scripts to bsehll scripts for debian & RH
 

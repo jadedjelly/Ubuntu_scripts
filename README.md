@@ -13,6 +13,11 @@
    - hmmm.....
 
 
-NOTE:
-Translate powershell scripts to bsehll scripts for debian & RH
+# NOTE:
+Translate powershell scripts to shell scripts for debian & RH
+
+#NOTE2:
+Further testing on RHEL as day to day driver, need to also test whether there is any fact that snap installs run heavier on cpu vs rpm packs
+- Going forward for RHCSA done via Vbox & AWS Ec2 (activity pending)
+
 
